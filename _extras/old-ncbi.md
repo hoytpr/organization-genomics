@@ -1,6 +1,6 @@
 ---
 layout: 
-title: Old NCBI
+title: Old-NCBI
 ---
 
 ## Original (older) NCBI instructions
