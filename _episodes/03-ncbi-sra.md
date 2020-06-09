@@ -73,7 +73,7 @@ takes you to the Run Selector page for BioProject PRJNA295606 (the BioProject nu
 
 > ### Downloading the Lenski SRA data from the SRA Run Selector Table using the old Run Selector
 > 
-> Go to the [“old Run Selector” instructions](http://www.datacarpentry.org/organization-genomics/old-ncbi/) page and return here after downloading your `SraRunTable.txt` file.
+> Go to the [“old Run Selector” instructions](../_extras/old-ncbi/) page and return here after downloading your `SraRunTable.txt` file.
 > 
 > We include the “old Run Selector” page because the webpages ***and*** downloaded file `SraRunTable.txt` are slightly different. 
 
