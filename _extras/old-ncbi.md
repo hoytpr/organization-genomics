@@ -23,4 +23,4 @@ dataset.
 
 You should now have a **tab-delimited** file called `SraRunTable.txt`.
 
-**Return to lesson [Examining Data on the NCBI SRA Database](https://hoytpr.github.io/03-ncbi-sra/index.html) and continue.**
+**Return to lesson [Examining Data on the NCBI SRA Database](https://hoytpr.github.io/organization-genomics/03-ncbi-sra/index.html) and continue.**
