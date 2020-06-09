@@ -3,7 +3,7 @@ layout: page
 title: Old-NCBI
 ---
 
-## Original (older) NCBI instructions
+# Original (older) NCBI instructions
 
 These will be phased out of our lesson when NCBI stops supporting
 the old page versions.
